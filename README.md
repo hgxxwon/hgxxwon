@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hgxxwon
 - 👀 I’m interested in programming, music and gaming!
-- 🌱 I’m currently learning front and backend developer
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning front and backend development
 - 📫 How to reach me discord: hgxxwon#1321
 
 <!---
