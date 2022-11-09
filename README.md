@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hgxxwon
+- 👋 Hi, I’m Mirko
 - 👀 I’m interested in programming, music and gaming!
 - 🌱 I’m currently learning front and backend development
 - 📫 How to reach me discord: hgxxwon#1321
