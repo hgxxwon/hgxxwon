@@ -7,9 +7,7 @@
 
 - 🔭 I’m currently working on **My Team Project**
 
-- 🌱 I’m currently learning **JS, REACT.JS, NODE.JS**
-
-- 🤝 I’m looking for help with **React.js**
+- 🌱 I’m currently learning **NODE.JS**
 
 - 📫 How to reach me **autieromir@gmail.com**
 
