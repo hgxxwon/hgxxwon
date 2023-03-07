@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hgxxwon&label=Profile%20views&color=0e75b6&style=flat" alt="hgxxwon" /> </p>
 
-- 🔭 I’m currently working on **My Team Project**
+- 🔭 I’m currently looking for a **Job**
 
-- 🌱 I’m currently learning **NODE.JS**
+- 🌱 I’m currently improving my **Coding Skills**
 
 - 📫 How to reach me **autieromir@gmail.com**
 
